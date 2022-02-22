@@ -1,0 +1,2 @@
+# IIC_Test_2
+基于STM32F103_MIN开发板，使用的是IIC控制器来控制IIC
